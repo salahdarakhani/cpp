@@ -1,3 +1,4 @@
 # cpp
-C++ Classroom by Salah Darakhani,
+C++ programming language classroom
+by Salah Darakhani,
 2017
